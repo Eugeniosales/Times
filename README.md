@@ -1,16 +1,10 @@
 # Times
 
-A new Flutter project.
+## Screens
 
-## Getting Started
+### Home screen
 
-This project is a starting point for a Flutter application.
+<img width="300px" alt="home_screen" src="https://lh3.googleusercontent.com/XwrpikF-Ho0t6FzVkTXLeDQ8I9pF4oqARp9KaWsQURfeeszhVjtyymu-B11REm9QGvXLkuwGvzcRKVrnslt4aitSHblqmbhF2zbfsZEChJAGF5BkHDWFpjL92gILpGJ3Tl81TqLPC3TpD-qfvHtR2nbAVrxZ9DQHr9WkRm8F6QhqF5Hltmpi5oxxbfmAbF_4UeuMYmR3X-eL2dsiSgO_QsulM6zkB9HpWvTngoOdRZdyPasZOqlXk57iex3aEKiukGuEjv-ldYzmVUwfYrDkaeSw6JTcprFR5BvMx9PV9XTFgWYBTKX-mG8eiNDn5GU7bT72BL906WiGMbJzDgAB2phWB2Lr3BGW2p9zlXsz7VjoXfxO4Up3L1F2wqt-mFaTOkku2f3MRHw6bxEBc1cJ652NC5tUNrW6EQOheiU-7-HlyIFgr94zz3Y3SFdf8FJdb4DeWG4e2zyzXBA8L76fznPmawg-5Vog9vzN7E9cRhB7pEQzKoT22oodCGXSqpdJoHuPSj9BVk-C0hOPqlNHZc-PnzebQ_yjx9iXb46s4m48FC9jVl5ot7Jwi2wWGPd6uytOWJVE2KbuG-5smtHOVBOgIsFCR5Z8oNasqv7TWNym9tMcQ3S_dUlBG8X9wfy4O3_rF5MEIgQNr9K0WXnz15bGnk0iGNzEYY6jZHs4ZSun3VDLXZsyiK97eU4M1Q=w452-h903-no?authuser=0" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Countries List screen
+<img width="300px" alt="countries_screen" src="https://lh3.googleusercontent.com/pN355yNCHmv9IvW1xGc1EYJ_Mu7V6hv3tERZdFYw6wVt0uaZmsu4-WdpbLAVstoz4EjYIcwZQxITOrWkuT99FsXOsOTGtWAGWooWOpAAyWDFjAzbojMWyQbjQW_EXFbQg18LhlIjbA4YjYbhK3L2zv2Lv225YNHl_fXPTsPDcodnhcnPRVvSV2rUCzpqlRFtFqHFFP_v-Wono7JkbFmQOHNahc5I6GhNZFcMakbZP-tZtenN1nsnMBjPmwgVz5NYw2hIxl_vbpU4B2mXXPYu3VJsJGoKK-A6ryfwpZ3ItxfZbPfUUup7JkKwFEVHbyFyuqj3dRtB8uFHr5izTpauaoOwZpf1Qvz6jC3ZHsbajuJVU0OjRaGlg6IYfZZXrJkVHj1_3kNNjPfSSeQR9AwB9NrRDTgnDzM3Xo7AEuCTiQX4yh-dHgtW4p-UrUTC2d87QtpJ7k-EpA9vctvV898oQ6HtoTkBFUnuMidZtDwZBUErGqr25Bfgrm5s8_kPf0WAU8k41Rm3nOG1G8CguWlyqQMqK5vk4JS5UISFX_jWDYdT51454KmJP54Jn_b4x2rFIiAzfo1cGd2O5ZFlV5m5S4zF0jC3MqO240OX1z0s0W6MlRvikfw_dk7iTSlKUcwPh9zhDMgOgQvnse9d0tsod9wYiT6skxs8BlqUFLGt8ZGiLdLbalI2HM3jwyWcTQ=w452-h903-no?authuser=0" />
