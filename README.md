@@ -1,6 +1,6 @@
 # Times
 
+
 ## Screens
 
-<img width="320" height="240" controls>
-</img>
+<img src="public/WhatsApp-Video-2020-06-29-at-105.gif" width="300"> </img>
