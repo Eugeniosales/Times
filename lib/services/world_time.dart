@@ -6,9 +6,10 @@ class WorldTime {
   String location;
   String time;
   String flag;
+  String picture;
   String url;
 
-  WorldTime({ this.url, this.flag, this.location });
+  WorldTime({ this.url, this.flag, this.location, this.picture });
 
     Future <void> getTime() async {
       try {
@@ -16,9 +17,8 @@ class WorldTime {
         Map data = jsonDecode(response.body);
         
         String dateTime = data['datetime'];
-        String offset = data['utc_offset'].substring(1, 3);
         
-        DateTime now = DateTime.parse(dateTime).add(Duration(hours: int.parse(offset)));
+        DateTime now = DateTime.parse(dateTime);
         time = DateFormat().format(now);
       } catch(e) {
         time = 'Time undefined';

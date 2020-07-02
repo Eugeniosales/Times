@@ -11,7 +11,7 @@ class _LoadingState extends State<Loading> {
   @override
 
   void setUpDate() async {
-    WorldTime instance = WorldTime(url: 'Europe/Lisbon', location: 'Lisboa', flag: 'lisbon.png');
+    WorldTime instance = WorldTime(location: 'Londres', flag: 'united-kingdom', url: 'Europe/London', picture: 'https://images.unsplash.com/photo-1454793147212-9e7e57e89a4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=614&q=80');
     
     await instance.getTime();
     
@@ -19,7 +19,8 @@ class _LoadingState extends State<Loading> {
       Navigator.pushReplacementNamed(context, '/home', arguments: {
         'location': instance.location,
         'flag': instance.flag,
-        'time': instance.time
+        'time': instance.time,
+        'picture': instance.picture
       });
     });
   }
